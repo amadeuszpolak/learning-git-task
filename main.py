@@ -7,3 +7,4 @@ for shop in shop_dict:
 print(f"W sumie kupuje {product_counter} produktów")
 print("Warzywniak Zamknięty")
 print("Piekarnia Zamknięta")
+print("Special Greetings for my Mentor! :)")
